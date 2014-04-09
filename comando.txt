@@ -1,0 +1,1 @@
+"C:\Users\NETO\Dropbox\Programas\tablediff.exe" -sourceserver . -sourcedatabase ServTaxi2012 -sourcetable TabCliente -destinationserver . -destinationdatabase SERVTAXI -destinationtable TabCliente  -q "C:\Users\NETO\Desktop\teste" 
